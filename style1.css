@@ -1,0 +1,61 @@
+﻿
+        .purple-color{
+           color :#8845f4;
+           font-size:200%;
+           }
+
+
+          body{
+              font-family : sans-serif;
+              font-size :15px;
+              color :#777777;
+              line-height : 26px;
+              opacity : 1.7;
+              font  :yellow;
+               background:url("image/chevy.jpg")no-repeat 0 -250px;
+              padding-left :25%;
+          }
+
+          .side-things{
+              float :left;
+          }
+          .half-width{
+                width :50%;
+               float :left;
+
+          }
+          .side-image{
+              width :20%;
+              padding-left :25%;
+          }
+
+              img{
+                 position : absolute;
+                 top :25%;
+                 right:10%;
+                  width:20%;
+          }
+              .primary-btn{
+                    color :white;
+                    background-color  :#8845f4;
+                    padding : 13px 42px 13px 42px;
+                    border-radius :20px;
+                    text-decoration : none;
+              }
+
+              h1{
+                 font-size-adjust :0.92;
+              }
+
+              footer{
+                padding:20px;
+                text-align:center;
+                margin-bottom :50px;
+                }
+
+            p{
+            font-size:10 px;
+            }
+
+
+  
